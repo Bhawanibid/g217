@@ -21,7 +21,7 @@ resource "azurerm_resource_group" "rg1" {
 # abcd
 # xyz
 # maneesh bhai
-resource "azurerm_resource_group" "maneesh_bhai_ka_rg" {
+resource "azurerm_resource_group" "maneesh_bhai_ji_ka_rg" {
   name = "maneesh"
   location = "west us"
 }
