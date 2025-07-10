@@ -25,3 +25,9 @@ resource "azurerm_resource_group" "rg3" {
   name = "ram"
   location = "east us"
 }
+
+# sare jaha se achha hindustan hamaara
+# abcd
+# xyz
+# maneesh bhai
+
